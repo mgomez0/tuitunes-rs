@@ -1,0 +1,13 @@
+[package]
+name = "tuitunes-templated"
+version = "0.1.0"
+authors = ["Michael Gomez <m.nathan.gomez@gmail.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.75"
+cpal = "0.15.2"
+crossterm = "0.26.1"
+ratatui = "0.24.0"
+rustfft = "6.1.0"
